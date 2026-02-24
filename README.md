@@ -352,3 +352,4 @@ Jika ada pertanyaan atau masalah, silakan buat issue di repository ini.
 
 MIT License - Free to use and modify.
 # discord-bot-sheets
+# discord-bot-sheets
